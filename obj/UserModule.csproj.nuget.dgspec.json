@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\moham\\D2Repo\\UserModule.csproj": {}
+    "C:\\Users\\Nazem\\Desktop\\Lab\\C# .NET\\D2Repo\\UserModule.csproj": {}
   },
   "projects": {
-    "C:\\Users\\moham\\D2Repo\\UserModule.csproj": {
+    "C:\\Users\\Nazem\\Desktop\\Lab\\C# .NET\\D2Repo\\UserModule.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\moham\\D2Repo\\UserModule.csproj",
+        "projectUniqueName": "C:\\Users\\Nazem\\Desktop\\Lab\\C# .NET\\D2Repo\\UserModule.csproj",
         "projectName": "UserModule",
-        "projectPath": "C:\\Users\\moham\\D2Repo\\UserModule.csproj",
-        "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\moham\\D2Repo\\obj\\",
+        "projectPath": "C:\\Users\\Nazem\\Desktop\\Lab\\C# .NET\\D2Repo\\UserModule.csproj",
+        "packagesPath": "C:\\Users\\Nazem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nazem\\Desktop\\Lab\\C# .NET\\D2Repo\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\moham\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nazem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
